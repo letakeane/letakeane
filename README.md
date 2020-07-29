@@ -1,7 +1,3 @@
-<center>
-  <img width="300px" src="https://cdn.glitch.com/961b1283-6a5d-41bd-98f6-45a0b7d3a07d%2Fimageedit_59_2949971778.gif?v=1595285303625" alt="Leta grinning and doing finger-guns at the camera" />
-</center>
-
 ## Hello! 💖
 
 I'm [Leta](http://www.letakeane.com) (_pronouns are she/her/hers_), and I work as an instructor at [Turing School](https://turing.io) where I teach front-end engineering to people making the jump into tech!
