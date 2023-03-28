@@ -1,6 +1,6 @@
 ## Hello! 💖
 
-I'm [Leta](http://www.letakeane.com) (_pronouns are she/they_), and I work as an instructor at [Turing School](https://turing.io) where I teach front-end engineering to people making the jump into tech!
+I'm [Leta](http://www.letakeane.com) (_pronouns they/she_), and I work as an instructor at [Turing School](https://turing.io) where I teach front-end engineering to people making the jump into tech!
 
 ### Pretty good analogies, okay diagrams, bad jokes
 
