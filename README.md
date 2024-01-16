@@ -1,7 +1,8 @@
 ## Hello! 💖
 
-I'm [Leta](http://www.letakeane.com) (_pronouns they/she_), and I work as an instructor at [Turing School](https://turing.io) where I teach front-end engineering to people making the jump into tech!
+I'm [Leta](https://www.letakeane.com) (_pronouns they/she_), and I work at the National Renewable Energy Lab as a front end engineer!
 
+<!--
 ### Pretty good analogies, okay diagrams, bad jokes
 
 Teaching is mostly about getting **out of the dang way**.
@@ -11,6 +12,7 @@ I do that by using analogies to relate complex concepts to everyday experiences.
 I aspire to blend humor, kindness, patience into my teaching style. Basically, I hope to bring the same energy to JavaScript as Carl Sagan brought to astronomy and quantum physics.
 
 <center><img src="https://i.giphy.com/media/iJb64kdOkiUTu/giphy.gif" alt="Carl Sagan croons lovingly toward a clear cube held in his hand, with a caption that reads, 'Every cube of space deserves to be loved'" /></center>
+-->
 
 ### The deets: Leta in 100 words
 
